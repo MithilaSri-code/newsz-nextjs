@@ -1,0 +1,25 @@
+.time{
+
+  
+   margin-top: 70px;
+   margin-right: 50px;
+   font-size: larger;
+  
+   
+    
+}
+
+.date{
+   
+   
+}
+
+.clock{
+
+    
+    display: inline-flex;
+    flex-direction: row;
+    justify-content:left;
+   
+    
+}

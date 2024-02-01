@@ -1,0 +1,27 @@
+
+
+    
+
+
+    .owl-carousel {
+        width: 100%; /* Adjust the width of the carousel */
+        max-width: 900px; /* Set a maximum width if necessary */
+        height: 70px; 
+        padding-top: 5px;
+        margin-top: -30px;
+        align-items: top;
+        color: white;
+        font-size: larger;
+        text-decoration: none;
+        
+        
+
+    }
+
+    .product{
+        text-decoration: none;
+        color: black;
+
+
+    }
+    

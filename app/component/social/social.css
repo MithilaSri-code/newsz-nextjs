@@ -1,0 +1,59 @@
+ 
+ 
+ 
+ .youtube a{
+    
+    
+ color:rgb(205, 21, 21) ;
+   
+   
+}
+
+.telegram a{
+    
+    
+    color: rgb(34, 154, 239);
+    
+}
+
+.facebook a{
+    
+    
+    color: rgb(5, 102, 172);
+    
+    
+}
+
+.twitter a{
+    
+    
+    color: rgb(34, 154, 239);
+    
+}
+
+.linkedin a{
+    
+    
+    color: rgb(46, 116, 166);
+    
+}
+
+
+.instagram a{
+    
+    
+    color: rgb(166, 46, 82);
+    
+}
+
+
+
+.socailicon{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    color: #2cbe38;
+    justify-content: center;
+        
+}
+

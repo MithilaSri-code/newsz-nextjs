@@ -1,0 +1,17 @@
+.adarea{
+
+    grid-template-columns: 1fr;
+    background-color: none;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    border: black  solid ;
+    height: 65px;
+
+    margin-bottom: 60px;
+}
+
+.newszmedia{
+   height: 60px;
+   padding-bottom: 10px;
+}
